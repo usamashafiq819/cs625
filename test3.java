@@ -1,16 +1,1 @@
-class test3{
-	public static void main(String[] args) {
-		int x=0;
-		int y=0;
-		while(x<5){
-			y=y+2;
-			if(y>4){
-				y=y-1;
-			}
-		
-		System.out.print(x + " " + y + " " );
-		x=x+1;
-		
-	}
-}
-}
+êqFÔ´ni7ıŸiXI6e¼Ú·8ˆ<Z=Euˆ’É×é’+—M°r,²Iùª†û–M£ïâ%9–ü'1ƒğIQn›ÒºÚ'bDÑÁ÷Å) páj¦—¬§7kLÚdllFc¬øÿ›ñ‚”Í©XJ€2"YàNÇêY,×U¹ó‘Å}HªÏ­våØ-~4WY@ïyöØ‘ã,11+»°óïV@C
